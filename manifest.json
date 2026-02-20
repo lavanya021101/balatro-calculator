@@ -1,0 +1,20 @@
+{
+  "name": "Balatro Calculator",
+  "short_name": "BalatroCalc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#3a5055",
+  "theme_color": "#3a5055",
+  "icons": [
+    {
+      "src": "assets/8BitDeck.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/Balatro logo-new.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
