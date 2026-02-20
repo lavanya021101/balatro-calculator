@@ -9,3 +9,7 @@ You can also use this tool to try and conceive of your "perfect hand" to see wha
 Currently, a couple of the jokers may not work correctly, but most of them do.
 
 font used: https://managore.itch.io/m6x11
+
+## Offline / mobile use
+
+The calculator now ships with a manifest and service worker so it can be installed for personal offline use on mobile. Serve the repository locally (e.g. `python -m http.server`) and open it in your browser; you can then add it to your home screen and continue using it without a network connection.
